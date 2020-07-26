@@ -21,7 +21,7 @@ bash update.sh udacity-project-networking networking.yaml networking.json
 
 ```
 
-### Create Server stack
+### Update Server stack
 
 ```bash
 bash update.sh udacity-project-servers server.yaml server.json
@@ -35,7 +35,7 @@ bash delete.sh udacity-project-networking
 
 ```
 
-### Create Server stack
+### Delete Server stack
 
 ```bash
 bash delete.sh udacity-project-servers
